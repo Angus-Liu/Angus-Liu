@@ -37,10 +37,7 @@ I'm a passionate software developer currently working on **operating system wind
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angus-Liu&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angus-Liu&theme=radical" width="48%">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Angus-Liu&show_icons=true&theme=radical">
 
 ---
 
